@@ -1,4 +1,3 @@
-
 var output1 = [];
 var array1 = function (arr1) {
     for (var i = 0; i < arr1.length; i++) {
